@@ -8,8 +8,9 @@ The beginning of the quest to reacquire lost knowledge.
   * Binary Search Tree
 * Heap
 * Hash table / hash set
-* Trie
 
 # Data structures already implemented
 * Linked List
 * Stack
+* Prefix Trie
+

@@ -59,5 +59,4 @@ int main(){
     std::cout << "Popping again" << std::endl;
     std::cout << myStack.pop() << std::endl;
     std::cout << "isEmpty: " << myStack.isEmpty() << std::endl;
-
 }
